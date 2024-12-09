@@ -1,0 +1,5 @@
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.csproj.AssemblyReference.cache
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MainWindow.g.cs
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\App.g.cs
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign_MarkupCompile.cache
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign_MarkupCompile.lref

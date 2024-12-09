@@ -28,14 +28,31 @@
             Foreground="White"
             FontSize="22"
             Margin="20,0,0,0"/>
-            <StackPanel Grid.Row="1"    >
-                <RadioButton Content="Home"
-                             Height="50"
-                             FontSize="15"
-                             Foreground="White"/>
+        <StackPanel Grid.Row="1">
+            <RadioButton Content="Home"
+                Height="50"
+                FontSize="15"
+                Foreground="White"
+                Style="{StaticResource MenuButtonTheme}"/>
+            <RadioButton Content="Discovery"
+                 Height="50"
+                 FontSize="15"
+                 Foreground="White"
+                 Style="{StaticResource MenuButtonTheme}"/>
+            <RadioButton Content="Featured"
+                 Height="50"
+                 FontSize="15"
+                 Foreground="White"
+                 Style="{StaticResource MenuButtonTheme}"/>
                 
-            </StackPanel>
-        
-    </Grid>
+        </StackPanel>
+
+            <TextBox Width="250"
+                Height="40"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Left"
+                Margin="5,0,0,0" 
+                Grid.Column="1"/>
+        </Grid>
     </Border>
 </Window>
