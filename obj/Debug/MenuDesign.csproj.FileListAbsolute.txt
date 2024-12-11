@@ -3,3 +3,16 @@ C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MainWindow.g.cs
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\App.g.cs
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign_MarkupCompile.cache
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign_MarkupCompile.lref
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\MenuDesign.exe.config
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\MenuDesign.exe
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\MenuDesign.pdb
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\Theme\TextboxTheme.baml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\App.baml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MainWindow.baml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.g.resources
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.Properties.Resources.resources
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.csproj.GenerateResource.cache
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.csproj.CoreCompileInputs.cache
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.exe
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.pdb

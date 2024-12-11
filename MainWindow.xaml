@@ -52,7 +52,8 @@
                 VerticalAlignment="Center"
                 HorizontalAlignment="Left"
                 Margin="5,0,0,0" 
-                Grid.Column="1"/>
+                Grid.Column="1"
+                     Style="{StaticResource ModernTextBox}"/>
         </Grid>
     </Border>
 </Window>
