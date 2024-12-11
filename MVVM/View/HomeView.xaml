@@ -33,6 +33,8 @@
                                    FontSize="18"
                                    Margin="20,10,10,0"/>
                     </StackPanel>
+                    <Image Width="250" Height="250" Source="/Images/Python-logo"
+                           HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
                 </Grid>
             </Border>
         </StackPanel>
