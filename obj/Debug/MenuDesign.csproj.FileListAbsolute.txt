@@ -19,3 +19,7 @@ C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.pdb
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\HomeView.g.cs
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\HomeView.baml
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\CompletedTasksView.g.cs
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\TasksView.g.cs
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\CompletedTasksView.baml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\TasksView.baml

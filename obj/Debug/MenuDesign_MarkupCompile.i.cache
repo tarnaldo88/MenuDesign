@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\App.xaml
-4-820853319
+6-481464548
 
-111791690818
+151579081818
 13-1310406943
-MainWindow.xaml;MVVM\View\HomeView.xaml;Theme\TextboxTheme.xaml;Theme\MenuButtonTheme.xaml;
+MainWindow.xaml;MVVM\View\CompletedTasksView.xaml;MVVM\View\HomeView.xaml;MVVM\View\TasksView.xaml;Theme\TextboxTheme.xaml;Theme\MenuButtonTheme.xaml;
 
-True
+False
 
