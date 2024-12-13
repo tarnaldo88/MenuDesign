@@ -22,7 +22,7 @@
                 <RowDefinition/>
         </Grid.RowDefinitions>
 
-        <TextBlock Text="Torres" 
+        <TextBlock Text="Torres Goal Tracker" 
             VerticalAlignment="Center"
             HorizontalAlignment="Left"
             Foreground="White"
@@ -34,12 +34,12 @@
                 FontSize="15"
                 Foreground="White"
                 Style="{StaticResource MenuButtonTheme}"/>
-            <RadioButton Content="Discovery"
+            <RadioButton Content="Tasks"
                  Height="50"
                  FontSize="15"
                  Foreground="White"
                  Style="{StaticResource MenuButtonTheme}"/>
-            <RadioButton Content="Featured"
+            <RadioButton Content="Completed Tasks"
                  Height="50"
                  FontSize="15"
                  Foreground="White"

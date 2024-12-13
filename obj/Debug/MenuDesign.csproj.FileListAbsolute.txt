@@ -16,3 +16,5 @@ C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.csproj.Ge
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.csproj.CoreCompileInputs.cache
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.exe
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.pdb
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\HomeView.g.cs
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\HomeView.baml

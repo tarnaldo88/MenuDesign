@@ -20,23 +20,44 @@
                 <Border.Clip>
                     <RectangleGeometry RadiusX="10"
                                        RadiusY="10"
-                                       Rect=" 0 ,0,400,200"/>                    
+                                       Rect=" 0 ,0,400,200"/>
                 </Border.Clip>
                 <Grid>
                     <StackPanel>
-                        <TextBlock Text="World leader&#x0a;in global finance"
+                        <TextBlock Text="Track your Goals&#x0a;and Make Progress"
                                    Foreground="White"
                                    FontSize="28"
                                    Margin="20,10,10,0"/>
-                        <TextBlock Text="Get Started already"
+                        <TextBlock Text="Get Started Today"
                                    Foreground="White"
                                    FontSize="18"
                                    Margin="20,10,10,0"/>
                     </StackPanel>
                     <Image Width="250" Height="250" Source="/Images/Python-logo"
-                           HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+                           HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,0,-5"/>
                 </Grid>
             </Border>
+
+            <Border Width="200" Height="200"
+                    CornerRadius="10"
+                    Margin="45,0,0,0">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#ffc554" Offset="0.0"/>
+                        <GradientStop Color="#ffb73a" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+            </Border>
+        </StackPanel>
+        <StackPanel >
+            <TextBlock Text="Completed Projects" Foreground="White" FontSize="20" 
+               HorizontalAlignment="Left" Margin="0,0,0,10"/>
+
+            <StackPanel Orientation="Horizontal">
+                <Border Width="150" Height="150"
+                        Background="#844eff"
+                        CornerRadius="10"/>
+            </StackPanel>
         </StackPanel>
     </StackPanel>
 </UserControl>
