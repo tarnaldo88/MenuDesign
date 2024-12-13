@@ -35,6 +35,9 @@
                     </Grid>
                 </Border>
             </StackPanel>
+            <StackPanel>
+                
+            </StackPanel>
         </StackPanel>
     </Grid>
 </UserControl>
