@@ -70,6 +70,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="MVVM\Model\Task.cs" />
     <Compile Include="Services\ViewModelLocator.cs" />
     <Compile Include="Services\WindowMapper.cs" />
     <Page Include="MainWindow.xaml">
@@ -157,7 +158,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Fonts\" />
-    <Folder Include="MVVM\Model\" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\Python-logo.png" />
