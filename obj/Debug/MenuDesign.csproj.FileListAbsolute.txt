@@ -23,3 +23,16 @@ C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\CompletedT
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\TasksView.g.cs
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\CompletedTasksView.baml
 C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\TasksView.baml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\CreateTasksView.g.cs
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MVVM\View\CreateTasksView.baml
+C:\Users\tarna\source\repos\MenuDesign\MenuDesign\obj\Debug\MenuDesign.csproj.Up2Date

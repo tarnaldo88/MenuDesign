@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MenuDesign.MVVM.ViewModel
 {
-    internal class HomeViewModel
+    public class HomeViewModel
     {
     }
 }
